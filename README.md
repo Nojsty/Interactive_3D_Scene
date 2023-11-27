@@ -6,4 +6,6 @@ First person interactive scene.
 * L - flashlight
 * F1,F2,F3 - change camera view
 
+Video: https://youtu.be/oqWgPNkioKw
+
 Utilizing: https://gitlab.fit.cvut.cz/kolemrad/pgr-framework
