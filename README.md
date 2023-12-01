@@ -8,4 +8,4 @@ First person interactive scene.
 
 Video: https://youtu.be/oqWgPNkioKw
 
-Utilizing: https://gitlab.fit.cvut.cz/kolemrad/pgr-framework
+Created utilizing: https://gitlab.fit.cvut.cz/kolemrad/pgr-framework
