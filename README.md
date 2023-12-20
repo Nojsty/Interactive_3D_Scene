@@ -1,7 +1,7 @@
 # Interactive 3D Scene
 First person interactive scene.
 * WASD - movement
-* LMD - interact
+* LMB - interact
 * G - fog on/off
 * L - flashlight
 * F1,F2,F3 - change camera view
