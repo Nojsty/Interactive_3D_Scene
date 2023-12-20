@@ -9,3 +9,5 @@ First person interactive scene.
 Video: https://youtu.be/oqWgPNkioKw
 
 Created utilizing: https://gitlab.fit.cvut.cz/kolemrad/pgr-framework
+
+<sub> <i>Loosely</i> inspired by Wizarding World. </sub>
